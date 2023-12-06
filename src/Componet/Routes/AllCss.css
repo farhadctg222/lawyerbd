@@ -1,0 +1,36 @@
+.pagination {
+    display: inline-block;
+  }
+  
+  .pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+    border: 1px solid #ddd;
+  }
+  
+  .pagination a.active {
+    background-color: #4CAF50;
+    color: white;
+    border: 1px solid #4CAF50;
+  }
+
+@media only screen and (max-width: 450px) {
+
+    .pagination button{
+        padding: 10px;
+        border-style: none;
+        border: 1px solid black;
+        font-size: 15px;
+        font-weight: bolder;
+       
+       
+        margin-right: 4px;
+    }
+    .pagination button:hover{
+        background-color: rgb(192, 114, 19);
+    }
+
+}

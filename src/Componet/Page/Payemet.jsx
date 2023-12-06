@@ -1,0 +1,11 @@
+import React from 'react';
+
+const Payemet = () => {
+    return (
+        <div>
+            <h3>Update Comming Soon...</h3>
+        </div>
+    );
+};
+
+export default Payemet;

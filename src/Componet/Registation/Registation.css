@@ -1,0 +1,83 @@
+.buttonPayment{
+    border-style: none;
+    
+    width: 150px;
+    height: 45px;
+    background-color: rgb(224, 12, 12);
+    border-radius: 4px;
+    color: white;
+    font-family: Roboto,sans-serif;
+}
+.buttonPayment:hover{
+    background-color: rgb(211, 4, 4);
+}
+.recent{
+    border: 1px solid rgb(199, 193, 193);
+    text-align: center;
+    padding: 5px;
+   
+    font-family: roboto,sans-serif;
+    
+}
+.RegisterContainer {
+    padding: 5px;
+  }
+  .RegisterContainer h1, p{
+    text-align: center;
+  }
+  .form-control{
+    border: 1px solid black;
+    box-sizing: border-box;
+    text-align: left;
+  }
+  
+  /* Full-width input fields */
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 1px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+    box-sizing: border-box;
+  }
+  
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+  /* Overwrite default styles of hr */
+  
+
+  
+  /* Set a style for the submit/register button */
+  .registerbtn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  
+  .registerbtn:hover {
+    opacity:1;
+  }
+  
+  /* Add a blue text color to links */
+  a {
+    color: dodgerblue;
+  }
+  
+  /* Set a grey background color and center the text of the "sign in" section */
+  .signin {
+    background-color: #f1f1f1;
+   
+  }
+  .photo{
+    border: 1px solid black;
+    padding: 15px;
+  }
