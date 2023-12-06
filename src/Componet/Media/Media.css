@@ -44,8 +44,13 @@ nav ul{
 @media print{
     #root{
         text-align: center;
+       
     }
+    
+   
+    
 }
+
 
 @media only screen and (min-width: 451px) {
 

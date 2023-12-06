@@ -12,6 +12,7 @@ const Chattogram = (props) => {
     return (
         <>
         <div>
+            <title>{name}</title>
         <div className='ProfileCard'>
             <h1 className="headerProfile"style={{border:'1px solid black'}}>
               <a href=""><title>{name} <br />{Education} <br />{Desination}</title></a>  
