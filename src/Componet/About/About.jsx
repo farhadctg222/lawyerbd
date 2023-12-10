@@ -1,7 +1,7 @@
 const About = () => {
     return (
        <>
-       
+       <title>Web Developer-Mohammad Farhad Uddin</title>
           <div>
           <h3 className="recent">About Us</h3>
           <div className="about" style={{border:"1px solid black"}}>

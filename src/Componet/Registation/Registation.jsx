@@ -19,6 +19,7 @@ const Registation = () => {
     return (
         <>
         <div>
+            <title>বিশেষজ্ঞ আইনজীবী ও আয়কর প্র্যাকটিস্যান হিসেবে যোগ দিন</title>
              <h4 className='recent'>বিশেষজ্ঞ আইনজীবী ও আয়কর প্র্যাকটিস্যান হিসেবে যোগ দিন</h4>
              <h4 className='recent' style={{color:'black',fontFamily:'sen-serif',fontWeight:'normal',padding:'20px',textJustify:'justify'}}>আপনি যদি একজন বিশেষজ্ঞ আইনজীবী অথবা আয়কর আইনজীবী হয়ে থাকেন তাহলে এই ওয়েবসাইটে যুক্ত হতে পারবেন। এই ওয়েবসাইটে যুক্ত হওয়ার জন্য এককালীন <span style={{color:'red',fontFamily:'sen-serif'}}>৫১০ টাকা </span>ফি প্রযোজ্য যা আপনি বিকাশের মাধ্যমে পেমেন্ট করতে পারবেন। প্রথমে নিচে প্রদত্ত বিকাশের পেমেন্ট লিঙ্কের মাধ্যমে পেমেন্ট করুন। তারপর নিচের ফর্মটি পূরন করে সাবমিট করুন। সাবমিট করার পরবর্তী ৬ ঘন্টার মধ্যে আপনাকে ওয়েবসাইটে যুক্ত করা হবে এবং ইমেইলে আপনার প্রোফাইলের লিঙ্ক পাঠিয়ে দেয়া হবে।</h4>
         <a href="https://lawyer-bangladesh.com"> <button className='buttonPayment'>Payment Link</button> </a> <br /><br />

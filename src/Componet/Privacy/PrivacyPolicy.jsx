@@ -3,6 +3,7 @@ import './Privacy.css'
 const PrivacyPolicy = () => {
     return (
         <div className='Privacy-PolicyHeader'>
+          <title>Privacy Policy</title>
               <h3 className="privacy-policy">Privacy Policy</h3>
               <div className="privacy">
                 <h3 className="privacyIntroduction">Introduction</h3>
