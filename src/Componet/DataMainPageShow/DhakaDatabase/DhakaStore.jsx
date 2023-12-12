@@ -47,7 +47,7 @@ const DhakaData = [
 
 
    {
-    name:'Mostafa Akter Saimon',
+    name:'Pumpy Das',
     Education: 'B.Com(Hon`s). M.Com (Accounting),ITP, LLB',
     Specialist:'Tax Lawyer & Company Law',
     workPlace:'Chattogram Tax Bar Association',
@@ -61,8 +61,8 @@ const DhakaData = [
 
    },
      {
-    name:'Mohammad Rafiqul Islam',
-    Education: 'B.Com(Hon`s). M.Com (Accounting),ITP, LLB',
+    name:'Advocate Zobaida Khanom',
+    Education: 'B.Com(Hon`s). M.Com (Accounting),ITP, LLB,',
     Specialist:'Income Taxes & Distric Court',
     workPlace:'Sheily & Associates Law Farm',
     Desination:'Consultant',

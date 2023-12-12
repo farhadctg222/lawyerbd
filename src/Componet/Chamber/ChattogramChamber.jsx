@@ -7,6 +7,7 @@ const ChattogramChamber = () => {
 
     const dd = ChName.replaceAll("-"," ")
     const sss = ChattogramData.find(pd=>pd.name===dd)
+    console.log(sss)
   
    
  
@@ -15,7 +16,7 @@ const ChattogramChamber = () => {
     return (
         <>
          <title>{name}</title>
-      <title>{Chamber}</title>
+     
              <div className='ProfileCard'>
             <h1 className="headerProfile"style={{border:'1px solid black'}}>
               <a href=""><title>{name} <br />{Education} <br />{Desination}</title></a>  

@@ -47,7 +47,7 @@ const ChattogramData = [
 
 
    {
-    name:'Mostafa Akter Saimon',
+    name:'Shirin Sharmin',
     Education: 'B.Com(Hon`s). M.Com (Accounting),ITP, LLB',
     Specialist:'Tax Lawyer & Company Law',
     workPlace:'Chattogram Tax Bar Association',
@@ -61,7 +61,7 @@ const ChattogramData = [
 
    },
      {
-    name:'Mohammad  Rafiqul Islam',
+    name:'Advocate Lili Barua',
     Education: 'B.Com(Hon`s). M.Com (Accounting),ITP, LLB',
     Specialist:'Income Taxes & Distric Court',
     workPlace:'Sheily & Associates Law Farm',
