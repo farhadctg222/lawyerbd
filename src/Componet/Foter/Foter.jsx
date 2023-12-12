@@ -16,7 +16,7 @@ const Foter = () => {
                 <Link to='disclaimer'><button>Disclaimer</button></Link>
             </div>
            <div className="technology">
-           <p>Copyright © 2023-24 </p>
+           <p>Copyright © 2023-25 </p>
         <p>Hello World Technology</p>
            </div>
             
